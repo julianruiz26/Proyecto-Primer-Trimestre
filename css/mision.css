@@ -1,0 +1,43 @@
+body{ background-color: #000 }
+	#contenedor{
+		width: 1300px;
+		margin: auto;
+		margin-top: 20px;
+	}
+
+	h1{
+		font-size: 100px;
+		font-weight: bold;
+		font-family: diploma;
+		text-align: center;
+		color:#9F0D00 }
+
+	.title{
+		display: center;
+		margin:0% 0% 0% 0%;}
+
+	h2{
+		font-size: 40px;
+		color: #FFF; 
+		font-weight: normal;
+		font-family: Trajan Pro;
+		text-align: center;}
+
+	.container{
+		display: ;
+		color: #FFF;
+		margin:0% 0% 0% 0%;}
+
+	h3{
+		font-size: 20px;
+		color: #FFF; 
+		font-weight: normal;
+		font-family: Verdana;
+		text-align: justify;}
+
+	.caja{
+		margin: 0% 15% 0% 15%;
+		}
+
+	img{
+		margin:0% 0% 0% 18%;}

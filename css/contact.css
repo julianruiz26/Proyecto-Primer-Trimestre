@@ -1,0 +1,33 @@
+	h1{
+		font-size: 100px;
+		font-weight: bold;
+		font-family: diploma;
+		text-align: center;
+		color:#9F0D00 }
+	h2{
+		font-size: 20px;
+		color: #FFF; 
+		font-weight: normal;
+		font-family: Trajan Pro;}
+
+	.title{
+		display: center;
+		margin:0% 0% 0% 0%;}
+
+	.container{
+		width: 1300px;
+		margin:0% 0% 40% 0%;
+		margin-top: 20px;
+		display: ;
+		color: #9F0D00;
+		}
+
+	.caja{
+		width: 1300px;
+		margin:0% 0% 40% 0%;
+		margin-top: 20px;
+		display: auto;
+		color: #FFF;}
+
+	
+	
